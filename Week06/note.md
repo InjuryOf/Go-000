@@ -120,8 +120,32 @@
 
 ## 概念 & 知识点
 
-> - 
+> - CDN-边缘计算
+> - kafka
+> - 小表广播
+> - 缓存：
+>   - 主动预热：旁路预热
+>   - 通读预热
+> - 安全容器（Kata Container）
+> - 利特尔法则
+> - 拥塞控制
+> - Vegas
+> - 滑动窗口
+> - DRF
+> - backOff & Jitter
+> - seata
 
 ## 引用 & 扩展资料
 
-> 
+> - GO语言性能优化：https://cch123.github.io/perf_opt/
+> - 限流：https://pkg.go.dev/golang.org/x/time/rate
+> - https://allen-kevin.github.io/2017/05/18/TCP%E6%8B%A5%E5%A1%9E%E6%8E%A7%E5%88%B6%E4%B9%8BVegas/
+> - https://www.zhihu.com/question/32255109
+> - RollingCounter：https://github.com/go-kratos/kratos/tree/master/pkg/stat/metric
+> - https://aws.amazon.com/blogs/architecture/exponential-backoff-and-jitter/
+> - 日志：
+>   - https://dave.cheney.net/2015/11/05/lets-talk-about-logging
+>   - https://www.ardanlabs.com/blog/2013/11/using-log-package-in-go.html
+>   - https://www.ardanlabs.com/blog/2017/05/design-philosophy-on-logging.html
+>   - https://dave.cheney.net/2017/01/23/the-package-level-logger-anti-pattern
+> - 
